@@ -1,1 +1,1 @@
-test
+npx jest
